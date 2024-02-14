@@ -1,4 +1,5 @@
 BUBBLE SORT:
+
 Bubble sort is a simple sorting algorithm that repeatedly steps through the list of items, compares adjacent items and swaps them if they are in the wrong order. 
 
 Program of Bubble Sort in C++:
